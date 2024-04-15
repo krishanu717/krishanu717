@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishanu717&label=Profile%20views&color=0e75b6&style=flat" alt="krishanu717" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishanu717" alt="krishanu717" /></a> </p>
 
 - 💬 Ask me about **python, react, aws, c,**
 
