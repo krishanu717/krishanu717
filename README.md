@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishanu717&label=Profile%20views&color=0e75b6&style=flat" alt="krishanu717" /> </p>
 
 
-- 💬 Ask me about **python, react, aws, c,**
+- 💬 Ask me about **NOthing,**
 
 - 📫 How to reach me **mkrishanu332@gmail.com**
 
