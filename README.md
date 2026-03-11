@@ -69,7 +69,7 @@
 
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
 
-</p>
+</p> 
 
 ---
 
