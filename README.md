@@ -104,7 +104,7 @@ goal: "Design systems that don't break under growth"
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishanu717&repo=your-best-project&theme=tokyonight&hide_border=true&border_radius=18"/>
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishanu717&repo=your-second-project&theme=tokyonight&hide_border=true&border_radius=18"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishanu717&repo=https://github.com/krishanu717/profoilio-v1-updated&theme=tokyonight&hide_border=true&border_radius=18"/>
   </a>
 </p>
 
