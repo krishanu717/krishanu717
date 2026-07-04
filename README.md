@@ -1,143 +1,127 @@
-<!-- █████████████ HERO █████████████ -->
+<!-- █████████████ ASTRONAUT HEADER (local SVG) █████████████ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:1a1a40,100:24243e&height=250&section=header&text=KRISHANU%20MONDAL&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20•%20System%20Architect%20Mindset&descSize=18&descAlignY=62&descColor=a78bfa&stroke=7c6af7&strokeWidth=2" width="100%"/>
+
+  <img src="assets/synthwave-headers.svg" width="100%" alt="Header">
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Initializing+Krish+Profile...;Designing+Scalable+Systems;Building+High-Performance+Apps;Optimizing+for+Impact+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=500&size=18&pause=1200&color=8FD9A8&center=true&vCenter=true&width=700&lines=Drifting+through+orbit...;No+rush%2C+just+building;One+commit+at+a+time;Calm+mind%2C+clean+code+%F0%9F%8C%99" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=krishanu717&color=7c6af7&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/krishanu717?style=flat-square&color=38bdf8"/>
+<img src="https://komarev.com/ghpvc/?username=krishanu717&color=8fd9a8&style=flat-square&label=VISITORS+FROM+SPACE"/>
+<img src="https://img.shields.io/github/followers/krishanu717?style=flat-square&color=b9a8e0"/>
 
 </div>
 
 ---
 
-<!-- █████████████ TERMINAL IDENTITY █████████████ -->
+## 🛰️ Mission Log
 
-## 🖥️ System Boot
+```txt id="log01"
+> transmission received from orbit...
 
-```bash id="boot01"
-> boot krish.system
+Astronaut ID   : Krishanu Mondal ("Krish")
+Callsign       : Full Stack Engineer
+Home base      : India 🌍
+Current status : Floating, thinking, building
+Mood           : Calm and steady
 
-Loading identity...
-✔ Name        : Krishanu Mondal
-✔ Alias       : Krish
-✔ Role        : Full Stack Engineer
-✔ Location    : India 🇮🇳
+Payload loaded:
+✔ Frontend  — React / Tailwind
+✔ Backend   — Node.js / Django
+✔ Database  — MongoDB / MySQL
+✔ Cloud     — AWS
 
-Loading modules...
-✔ Frontend    : React / Tailwind
-✔ Backend     : Node.js / Django
-✔ Database    : MongoDB / MySQL
-✔ Cloud       : AWS
-
-System status: ONLINE 🚀
+> all systems nominal. no need to rush.
 ```
 
 ---
 
-<!-- █████████████ 3D PANEL █████████████ -->
+## 🪐 Orbit Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krishanu717&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9&border_radius=20" width="47%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=krishanu717&show_icons=true&theme=holi&hide_border=true&bg_color=0b1026&title_color=8fd9a8&icon_color=b9a8e0&text_color=cfd6e4&border_radius=20" width="47%"/>
 
-<img src="https://streak-stats.demolab.com/?user=krishanu717&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=38bdf8&border_radius=20" width="47%"/>
-
-</div>
-
----
-
-<!-- █████████████ STACK ORBIT █████████████ -->
-
-## ⚡ Tech Orbit
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,mongodb,mysql,aws" /><br/> <img src="https://skillicons.dev/icons?i=js,ts,tailwind,bootstrap,python,c" /><br/> <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,postman" />
+<img src="https://streak-stats.demolab.com/?user=krishanu717&theme=dark&hide_border=true&background=0b1026&ring=8fd9a8&fire=b9a8e0&currStreakLabel=cfd6e4&border_radius=20" width="47%"/>
 
 </div>
-
----
-
-<!-- █████████████ LIVE GRAPH █████████████ -->
-
-## 📊 Neural Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishanu717&bg_color=0d1117&color=a78bfa&line=38bdf8&point=ffffff&area=true&hide_border=true&radius=14"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishanu717&bg_color=0b1026&color=8fd9a8&line=b9a8e0&point=ffffff&area=true&hide_border=true&radius=14"/>
 </p>
 
 ---
 
-<!-- █████████████ ARCHITECTURE █████████████ -->
+## 🧰 Cargo Bay (Tech Stack)
 
-## 🧠 Architecture Mindset
+<div align="center">
 
-```yaml id="arch01"
-principles:
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,mongodb,mysql,aws&theme=dark"/><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,tailwind,bootstrap,python,c&theme=dark"/><br/>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,postman&theme=dark"/>
+
+</div>
+
+---
+
+## 🌿 Ground Control Philosophy
+
+```yaml id="philosophy01"
+mindset:
   - clean_code: true
-  - scalable_systems: true
-  - performance_first: true
-  - developer_experience: optimized
+  - no_rushing: true
+  - steady_progress: true
+  - calm_debugging: true
 
-workflow:
+daily_orbit:
+  - breathe
   - build
   - test
-  - optimize
-  - scale
+  - drift
+  - repeat
 
-goal: "Design systems that don't break under growth"
+north_star: "Slow is smooth, smooth is fast."
 ```
 
 ---
 
-<!-- █████████████ PROJECT CARDS █████████████ -->
-
-## 🚀 Project Interface
+## 🚀 Launchpad (Projects)
 
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishanu717&repo=your-best-project&theme=tokyonight&hide_border=true&border_radius=18"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishanu717&repo=your-best-project&theme=holi&hide_border=true&bg_color=0b1026&title_color=8fd9a8&text_color=cfd6e4&icon_color=b9a8e0&border_radius=18"/>
   </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishanu717&repo=https://github.com/krishanu717/profoilio-v1-updated&theme=tokyonight&hide_border=true&border_radius=18"/>
+  <a href="https://github.com/krishanu717/profoilio-v1-updated">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishanu717&repo=profoilio-v1-updated&theme=holi&hide_border=true&bg_color=0b1026&title_color=8fd9a8&text_color=cfd6e4&icon_color=b9a8e0&border_radius=18"/>
   </a>
 </p>
 
 ---
 
-<!-- █████████████ CONNECT █████████████ -->
-
-## 🌐 Network
+## 📡 Ground Contact
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/krishanu-mondal-6b19b5276">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0b1026"/>
 </a>
 
 <a href="mailto:mkrishanu332@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&labelColor=0b1026"/>
 </a>
 
 <a href="https://www.codechef.com/users/avim68221">
-<img src="https://img.shields.io/badge/CodeChef-avim68221-5B4638?style=for-the-badge&logo=codechef"/>
+<img src="https://img.shields.io/badge/CodeChef-avim68221-5B4638?style=for-the-badge&logo=codechef&labelColor=0b1026"/>
 </a>
 
 </div>
 
 ---
 
-<!-- █████████████ FOOTER █████████████ -->
+<!-- █████████████ ASTRONAUT FOOTER (local SVG) █████████████ -->
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=8B8AA8&center=true&width=500&lines=System+Idle...;Ready+for+next+build+%F0%9F%9A%80" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:1a1a40,100:0f0c29&height=130&section=footer"/>
+<p align="center">
+  <img src="assets/synthwave-footer.svg" width="100%" alt="Footer">
+</p>
